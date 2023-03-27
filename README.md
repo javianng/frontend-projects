@@ -1,4 +1,4 @@
-# frontend_projects
+# Frontend Projects
 
 <!-- PROJECT SHIELDS -->
 <!--

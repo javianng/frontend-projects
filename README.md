@@ -1,4 +1,4 @@
-# thecode_web_development_projects
+# frontend_projects
 
 <!-- PROJECT SHIELDS -->
 <!--

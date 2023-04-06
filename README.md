@@ -75,14 +75,6 @@ Javian Ng - [@shotbyj.av](https://www.instagram.com/shotbyj.ave) - javian.ng.z.h
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Special thanks to Future Coders for the tutorial at https://youtu.be/zhH9uvTOyQM.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
